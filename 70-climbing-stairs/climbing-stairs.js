@@ -3,20 +3,14 @@
  * @return {number}
  */
 var climbStairs = function(n) {
-    if(n<2){
-        return 1;
+    if(n<3) return n;
+    let count = 0;
+    const arr = [1,2];
+
+    for(let i = 3; i<n+1;i++){
+        [arr[0] , arr [1]] = [arr[1], arr[0] + arr[1]  ]
     }
 
-    firstStep = 1;
-    secondStep = 1;
-    thridStep = 0;
-
-    for(let i = 2;i<=n;i++){
-        thridStep = firstStep + secondStep;
-        firstStep = secondStep;
-        secondStep = thridStep;
-        
-    }
-
-    return thridStep;
+    return arr[1];
+    
 };
