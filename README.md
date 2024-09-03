@@ -31,4 +31,12 @@ Problem solving to keep up the brain active :D
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/NavinAnik/LeetcodeProblems/tree/master/1325-path-with-maximum-probability) |
+## String
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/NavinAnik/LeetcodeProblems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Simulation
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/NavinAnik/LeetcodeProblems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
