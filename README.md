@@ -43,4 +43,13 @@ Problem solving to keep up the brain active :D
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/NavinAnik/LeetcodeProblems/tree/master/0007-reverse-integer) |
+| [2083-three-divisors](https://github.com/NavinAnik/LeetcodeProblems/tree/master/2083-three-divisors) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/NavinAnik/LeetcodeProblems/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/NavinAnik/LeetcodeProblems/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
