@@ -19,6 +19,7 @@ Problem solving to keep up the brain active :D
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/NavinAnik/LeetcodeProblems/tree/master/1325-path-with-maximum-probability) |
+| [3647-zero-array-transformation-iii](https://github.com/NavinAnik/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
 ## Graph
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Problem solving to keep up the brain active :D
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/NavinAnik/LeetcodeProblems/tree/master/1325-path-with-maximum-probability) |
+| [3647-zero-array-transformation-iii](https://github.com/NavinAnik/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -70,4 +72,16 @@ Problem solving to keep up the brain active :D
 |  |
 | ------- |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/NavinAnik/LeetcodeProblems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+## Greedy
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/NavinAnik/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
+## Sorting
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/NavinAnik/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/NavinAnik/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
