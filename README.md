@@ -43,6 +43,7 @@ Problem solving to keep up the brain active :D
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/NavinAnik/LeetcodeProblems/tree/master/0007-reverse-integer) |
+| [1086-divisor-game](https://github.com/NavinAnik/LeetcodeProblems/tree/master/1086-divisor-game) |
 | [2083-three-divisors](https://github.com/NavinAnik/LeetcodeProblems/tree/master/2083-three-divisors) |
 ## Enumeration
 |  |
@@ -52,4 +53,16 @@ Problem solving to keep up the brain active :D
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/NavinAnik/LeetcodeProblems/tree/master/2083-three-divisors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/NavinAnik/LeetcodeProblems/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/NavinAnik/LeetcodeProblems/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/NavinAnik/LeetcodeProblems/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
