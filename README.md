@@ -39,4 +39,8 @@ Problem solving to keep up the brain active :D
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NavinAnik/LeetcodeProblems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/NavinAnik/LeetcodeProblems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
