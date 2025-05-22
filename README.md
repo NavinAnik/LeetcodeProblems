@@ -43,6 +43,7 @@ Problem solving to keep up the brain active :D
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/NavinAnik/LeetcodeProblems/tree/master/0007-reverse-integer) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/NavinAnik/LeetcodeProblems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/NavinAnik/LeetcodeProblems/tree/master/1086-divisor-game) |
 | [2083-three-divisors](https://github.com/NavinAnik/LeetcodeProblems/tree/master/2083-three-divisors) |
 ## Enumeration
@@ -65,4 +66,8 @@ Problem solving to keep up the brain active :D
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/NavinAnik/LeetcodeProblems/tree/master/1086-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/NavinAnik/LeetcodeProblems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
